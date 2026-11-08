@@ -1,7 +1,5 @@
 # Hi, I'm Dariusz.
 
-<img align="right" src="https://raw.githubusercontent.com/dariuszpanas/dariuszpanas/main/assets/tux-head-scratch.gif" alt="Tux looking up and scratching his head" width="128" height="128">
-
 I build open-source tools that connect systems and fit into the ecosystems people already use. I enjoy finding unexpected ways to make technologies work together, choosing the language that fits the problem.
 
 A few things I'm building:
@@ -12,3 +10,5 @@ A few things I'm building:
 - **[iperf3-lib](https://github.com/dariuszpanas/iperf3-lib)** — Network benchmarking and analysis from Python.
 
 More on the way, including Rust tools I'm preparing to open source.
+
+<img src="https://raw.githubusercontent.com/dariuszpanas/dariuszpanas/main/assets/tux-head-scratch.gif" alt="Tux looking up and scratching his head" width="128">
